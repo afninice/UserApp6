@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UserGithubApp</string>
+
+    <string name="auth">4f459e93351c51201e2fe82d587817ec0ae0c5cd</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">Search</string>
+    <string name="set">Setting</string>
+    <string name="ups">Uups! Like No Data</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="notif">welcome to my app</string>
+
+
+</resources>

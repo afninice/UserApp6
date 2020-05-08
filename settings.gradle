@@ -1,0 +1,3 @@
+rootProject.name='UserGithubApp'
+include ':app'
+include ':githubconsumerapp'
